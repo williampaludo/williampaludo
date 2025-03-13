@@ -2,10 +2,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=williampaludo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williampaludo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="100" alt="languages graph"  />
-</div>
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampaludo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williampaludo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
 
 ###
 
@@ -31,19 +31,18 @@
 
 ###
 
+<p>Se quiser falar comigo, é bem fácil:</p>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/william-paludo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5512997704238" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+<a href="https://www.linkedin.com/in/william-paludo/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
+<a href="https://wa.me/5512997704238" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</a>
 </div>
 
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/williampaludo/williampaludo/output/snake.svg" alt="Snake animation" />
-
-###
