@@ -1,11 +1,5 @@
 <h2 align="center">Olá! Sejam bem vindos ao meu Github</h2>
-
-###
-
-<div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampaludo&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williampaludo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
+<p>Aqui compartilho um pouco de projetos e laboratórios para estudo com tecnologia voltadas principalmente a DevOps</p>
 
 ###
 
@@ -29,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
 </div>
 
-###
+##
 
 <p>Se quiser falar comigo, é bem fácil:</p>
 
@@ -46,3 +40,8 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/williampaludo/williampaludo/output/snake.svg" alt="Snake animation" />
+
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampaludo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williampaludo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
