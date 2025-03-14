@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github</h2>
+<h2>Olá! Sejam bem vindos ao meu Github</h2>
 <p>Aqui compartilho um pouco de projetos e laboratórios para estudo com tecnologia voltadas principalmente a DevOps</p>
 
 ###
