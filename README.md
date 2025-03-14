@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
 </div>
 
-##
+#
 
 <p>Se quiser falar comigo, é bem fácil:</p>
 
@@ -36,7 +36,7 @@
 </a>
 </div>
 
-###
+##
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/williampaludo/williampaludo/output/snake.svg" alt="Snake animation" />
